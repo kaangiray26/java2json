@@ -4,4 +4,5 @@ type_conversions = {
     "ObjectId": "string",
     "LocalDateTime": "string",
     "Collection": "array",
+    "int": "integer",
 }
